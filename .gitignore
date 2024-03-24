@@ -5,4 +5,4 @@ __pycache__
 json/*
 saved/*
 saved_tracks.json
-venv/*venv
+venv/*
