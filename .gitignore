@@ -1,0 +1,7 @@
+# Ignore dynaconf secret files
+config/.secrets.*
+config/__pycache__
+__pycache__
+json/*
+saved/*
+saved_tracks.json
